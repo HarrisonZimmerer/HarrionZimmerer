@@ -31,9 +31,9 @@ As a recent Cybersecurity graduate from The University of Tulsa, I am eager to b
 
 </div>
 
-### SIEM
+### Coding
 <div>
-
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ## Certifications
