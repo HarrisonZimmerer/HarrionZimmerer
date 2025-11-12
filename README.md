@@ -71,6 +71,11 @@ As a recent Cybersecurity graduate from The University of Tulsa, I am eager to b
   Built a low-level heap memory manager using `sbrk()` and block coalescing to simulate core allocator behavior.
 * [**WireGuard VPN Deployment**](https://github.com/HarrisonZimmerer/WireGuard_VPN_Deploymen_Docker)
   Deployed a WireGuard VPN in Docker to secure remote access, emphasizing network encryption, containerization, and Linux networking.
+---
+
+## Competitions
+* [**Dragos CTF 2025**](https://github.com/HarrisonZimmerer/Dragos_CTF_2025)
+  Applied cybersecurity principles in a real-time, competitive environment. The event emphasized incident response within industrial control systems (ICS), challenging participants to detect, analyze, and investigate simulated attacks across multiple stages.
 * **HiveStorm Blue Team Competition**
   Defended simulated enterprise systems against red team attacks, identified malicious behavior through log analysis, and implemented mitigation procedures under time pressure.
 
